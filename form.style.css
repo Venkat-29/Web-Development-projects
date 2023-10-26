@@ -1,0 +1,29 @@
+body{
+    background-image: url('/images/carousel-1.jpg');
+}
+.container-fluid i {
+    padding-right:10px; 
+}
+#navbar ul li{
+    padding: 15px 15px 0px;
+}
+.one li{
+    margin-top: -6px;
+}
+.form-group .error{
+    color:rgb(242,18,18);
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  .form-group.success input{
+      border:2px solid #0cc477;
+  }
+  .form-group.error input{
+      border: 2px solid rgb(242,18,18);
+  }
+  .form-group.error textarea{
+    border: 2px solid rgb(242,18,18);
+  }
+  .form-group.success textarea{
+    border:2px solid #0cc477;
+}
